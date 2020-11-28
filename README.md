@@ -1,1 +1,2 @@
-# class-21-bullets-and-walls-project
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
